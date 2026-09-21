@@ -1,0 +1,18 @@
+# Data notes
+## GRID3 Nigeria Operational LGA Boundaries
+- Sources: https://data.grid3.org
+- Downloaded: 20/09/2026
+- 774 features, polygons
+- Columns: lganames (text), statename (text)
+- No nulls in lganames
+- Covers my LGA fully
+
+## OSM building, waterway extracted via QuickOSM
+- Query: building= within ibadan north west extent
+- Query: waterway= within ibadan north west extent
+- Extracted: 20/09/2026
+- 84,697 features, polygons
+- 193 features, lines
+- both layers have their tags fully
+- It's is a good to go for my area of interest
+
