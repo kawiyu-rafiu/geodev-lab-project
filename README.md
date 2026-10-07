@@ -7,3 +7,4 @@ See project-brief.md for the full brief.
 ## Preparation of environment and some basic commands
 
 - Week 5: setup python, VS Cde, and the terminal. hello.py file runs
+- Week 6: setup the project with uv and added pandas. main.py prints the pandas version.
